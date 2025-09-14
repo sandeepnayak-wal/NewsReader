@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/b5766454-70e1-4ee4-8479-61ca35078da1
 ### Installation
 1. Clone the repo  
    ```bash
-   git clone https://github.com/<your-username>/NewsReader.git
+   git clone https://github.com/<sandeepnayak-wal>/NewsReader.git
    cd NewsReader
 
    📬 Contact
