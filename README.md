@@ -50,8 +50,7 @@ https://github.com/user-attachments/assets/b5766454-70e1-4ee4-8479-61ca35078da1
    git clone https://github.com/<sandeepnayak-wal>/NewsReader.git
    cd NewsReader
 
-   📬 Contact
 
 📱 Mobile: +91-8074096853
 
-💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sandeepmegavath/)
+💼 LinkedIn: [Connect with me on Linkedin👉](https://www.linkedin.com/in/sandeepmegavath/)
